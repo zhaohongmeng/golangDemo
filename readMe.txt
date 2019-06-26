@@ -1,2 +1,1 @@
-This is git test!!!
-172871232205
+This is golang test!!!
